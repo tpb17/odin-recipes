@@ -1,0 +1,44 @@
+* {
+    font-family: "Garamond", serif;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.centered {
+    text-align: center;
+}
+
+.spinach {
+    color: green;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+button {
+    color: white;
+    background-color: lightgreen;
+}
+
+.listed {
+    padding: 10px;
+    font-size: 24px;
+}
+
+.box {
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: auto;
+    display: block;
+    border: solid black 2px;
+    width: 200px;
+    height: auto;
+    text-align: center;
+}
